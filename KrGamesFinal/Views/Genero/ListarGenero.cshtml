@@ -1,0 +1,15 @@
+﻿@model List<KrGamesFinal.Models.Genero>
+
+@foreach (var genero in Model)
+{
+    <div class="panel panel-danger">
+        <div class="panel-heading">
+            <h3 class="panel-title"></h3>
+        </div>
+
+        <div class="panel-body" style="text-align:justify; text-indent:15px">
+            @genero.GeneroJogo
+        </div>
+    </div>
+}
+

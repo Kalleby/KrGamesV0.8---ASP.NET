@@ -1,0 +1,64 @@
+﻿@model IEnumerable<KrGamesFinal.Models.Jogo>
+
+<p>
+    @Html.ActionLink("Novo Jogo", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.GeneroJogo.GeneroJogo)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.MidiaJogo.MidiaJogo)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.JogoNome)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.JogoDescricao)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.JogoPreco)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.JogoQuantidade)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.JogoImagem)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.GeneroJogo.GeneroJogo)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.MidiaJogo.MidiaJogo)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.JogoNome)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.JogoDescricao)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.JogoPreco)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.JogoQuantidade)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.JogoImagem)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id = item.JogoId }) |
+                @Html.ActionLink("Details", "Details", new { id = item.JogoId }) |
+                @Html.ActionLink("Delete", "Delete", new { id = item.JogoId })
+            </td>
+        </tr>
+    }
+
+</table>

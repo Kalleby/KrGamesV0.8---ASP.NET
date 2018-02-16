@@ -1,0 +1,61 @@
+﻿@model List<KrGamesFinal.Models.Jogo>
+
+<script>
+    function PesquisarJogo() {
+        var nomeJogo = encodeURIComponent(document.getElementById("nomeJogo").value);
+        $("#resultadoPesquisa").load("http://localhost:2361/Jogo/PesquisarJogo?nome=" + nomeJogo);
+
+        return false;
+    }
+
+</script>
+
+<button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal">Pesquisar Jogo</button>
+<br/>
+
+<div id="myModal" class="modal fade" role="dialog">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal">&times;</button>
+                <h4 class="modal-title">Pesquisar Jogo</h4>
+            </div>
+            <div class="modal-body">
+                <div class="form-group">
+                    <label for="usr">Nome:</label>
+                    <input type="text" class="form-control" id="nomeJogo"><br/>
+                    <button type="button" class="btn btn-default" onclick="return PesquisarJogo();">Pesquisar</button>
+                </div>
+                <p>
+                   <div id="resultadoPesquisa"></div>
+                </p>
+            </div>
+        </div>
+
+    </div>
+</div>
+
+<br />
+
+@foreach (var jogo in Model)
+{
+    <div class="panel panel-danger">
+        <div class="panel-heading">
+            <h3 class="panel-title">
+                @jogo.JogoNome - R$@jogo.JogoPreco
+            </h3>
+        </div>
+
+        <div class="panel-body" style="text-align:justify; text-indent:15px">
+            @jogo.JogoDescricao
+        </div>
+
+        <div class="panel-footer">
+            @jogo.MidiaJogo.MidiaJogo -
+            @jogo.GeneroJogo.GeneroJogo
+        </div>
+
+        @Html.ActionLink("AdicionarCarrinho", "Create", "ItemVenda", new { id = jogo.JogoId }, null)
+
+    </div>
+}

@@ -1,0 +1,15 @@
+﻿@model List<KrGamesFinal.Models.Jogo>
+
+        <table class="table table-bordered">
+            <tbody>
+                @foreach (var jogo in Model)
+                {
+                    <tr>
+                        <td>@jogo.JogoNome - R$@jogo.JogoPreco</td>
+                        <td>@jogo.JogoDescricao</td>
+                        <td>@jogo.MidiaJogo.MidiaJogo - @jogo.GeneroJogo.GeneroJogo</td>
+                        <td>@Html.ActionLink("AdicionarCarrinho", "Create", "ItemVenda", new { id = jogo.JogoId }, null)</td>
+                    </tr>
+                }
+            </tbody>
+        </table>

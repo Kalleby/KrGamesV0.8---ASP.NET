@@ -1,0 +1,47 @@
+﻿@model IEnumerable<KrGamesFinal.Models.ItemVenda>
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Jogo.JogoNome)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ItemVendaData)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ItemVendaQuantidade)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.CarrinhoId)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Jogo.JogoNome)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ItemVendaData)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ItemVendaQuantidade)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CarrinhoId)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id = item.ItemVendaId }) |
+                @Html.ActionLink("Details", "Details", new { id = item.ItemVendaId }) |
+                @Html.ActionLink("Delete", "Delete", new { id = item.ItemVendaId })
+            </td>
+        </tr>
+    }
+
+</table>
+@if (Request.IsAuthenticated)
+{
+    <input type="button" value="Finalizar Compra" class="btn btn-default" onclick="location.href='@Url.Action("FinalizarCompra", "ItemVenda")'" />
+}

@@ -1,0 +1,51 @@
+﻿@model KrGamesFinal.Models.ItemVenda
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <h4>ItemVenda</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Jogo.JogoNome)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Jogo.JogoNome)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ItemVendaData)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ItemVendaData)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ItemVendaQuantidade)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ItemVendaQuantidade)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.CarrinhoId)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CarrinhoId)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Delete" class="btn btn-default" /> |
+            @Html.ActionLink("Back to List", "Index")
+        </div>
+    }
+</div>

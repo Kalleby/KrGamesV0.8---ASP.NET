@@ -1,0 +1,75 @@
+﻿@model KrGamesFinal.Models.Jogo
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <h4>Jogo</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.GeneroJogo.GeneroJogo)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.GeneroJogo.GeneroJogo)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.MidiaJogo.MidiaJogo)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.MidiaJogo.MidiaJogo)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.JogoNome)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.JogoNome)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.JogoDescricao)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.JogoDescricao)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.JogoPreco)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.JogoPreco)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.JogoQuantidade)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.JogoQuantidade)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.JogoImagem)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.JogoImagem)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Delete" class="btn btn-default" /> |
+            @Html.ActionLink("Back to List", "Index")
+        </div>
+    }
+</div>

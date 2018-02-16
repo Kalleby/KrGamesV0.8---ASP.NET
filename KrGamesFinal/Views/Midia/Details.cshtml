@@ -1,0 +1,20 @@
+﻿@model KrGamesFinal.Models.Midia
+
+<div>
+    <h4>Midia</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.MidiaJogo)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.MidiaJogo)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.MidiaId }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

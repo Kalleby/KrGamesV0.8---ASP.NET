@@ -1,0 +1,21 @@
+﻿@model KrGamesFinal.Models.Genero
+
+<div>
+    <h4>Genero</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.GeneroJogo)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.GeneroJogo)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.GeneroId }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>
+

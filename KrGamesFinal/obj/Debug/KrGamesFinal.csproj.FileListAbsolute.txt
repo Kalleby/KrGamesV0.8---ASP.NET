@@ -1,0 +1,199 @@
+c:\users\kalleby\documents\visual studio 2015\Projects\KrGamesFinal\KrGamesFinal\bin\ApplicationInsights.config
+c:\users\kalleby\documents\visual studio 2015\Projects\KrGamesFinal\KrGamesFinal\bin\roslyn\csc.exe
+c:\users\kalleby\documents\visual studio 2015\Projects\KrGamesFinal\KrGamesFinal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\kalleby\documents\visual studio 2015\Projects\KrGamesFinal\KrGamesFinal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\kalleby\documents\visual studio 2015\Projects\KrGamesFinal\KrGamesFinal\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\kalleby\documents\visual studio 2015\Projects\KrGamesFinal\KrGamesFinal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\kalleby\documents\visual studio 2015\Projects\KrGamesFinal\KrGamesFinal\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\kalleby\documents\visual studio 2015\Projects\KrGamesFinal\KrGamesFinal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\kalleby\documents\visual studio 2015\Projects\KrGamesFinal\KrGamesFinal\bin\roslyn\System.Collections.Immutable.dll
+c:\users\kalleby\documents\visual studio 2015\Projects\KrGamesFinal\KrGamesFinal\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\kalleby\documents\visual studio 2015\Projects\KrGamesFinal\KrGamesFinal\bin\roslyn\vbc.exe
+c:\users\kalleby\documents\visual studio 2015\Projects\KrGamesFinal\KrGamesFinal\bin\roslyn\VBCSCompiler.exe
+c:\users\kalleby\documents\visual studio 2015\Projects\KrGamesFinal\KrGamesFinal\bin\roslyn\VBCSCompiler.exe.config
+c:\users\kalleby\documents\visual studio 2015\Projects\KrGamesFinal\KrGamesFinal\bin\KrGamesFinal.dll.config
+c:\users\kalleby\documents\visual studio 2015\Projects\KrGamesFinal\KrGamesFinal\bin\KrGamesFinal.dll
+c:\users\kalleby\documents\visual studio 2015\Projects\KrGamesFinal\KrGamesFinal\bin\KrGamesFinal.pdb
+c:\users\kalleby\documents\visual studio 2015\Projects\KrGamesFinal\KrGamesFinal\bin\EntityFramework.dll
+c:\users\kalleby\documents\visual studio 2015\Projects\KrGamesFinal\KrGamesFinal\bin\EntityFramework.SqlServer.dll
+c:\users\kalleby\documents\visual studio 2015\Projects\KrGamesFinal\KrGamesFinal\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\kalleby\documents\visual studio 2015\Projects\KrGamesFinal\KrGamesFinal\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\kalleby\documents\visual studio 2015\Projects\KrGamesFinal\KrGamesFinal\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\kalleby\documents\visual studio 2015\Projects\KrGamesFinal\KrGamesFinal\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\kalleby\documents\visual studio 2015\Projects\KrGamesFinal\KrGamesFinal\bin\Microsoft.AI.Web.dll
+c:\users\kalleby\documents\visual studio 2015\Projects\KrGamesFinal\KrGamesFinal\bin\Microsoft.AI.WindowsServer.dll
+c:\users\kalleby\documents\visual studio 2015\Projects\KrGamesFinal\KrGamesFinal\bin\Microsoft.ApplicationInsights.dll
+c:\users\kalleby\documents\visual studio 2015\Projects\KrGamesFinal\KrGamesFinal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\kalleby\documents\visual studio 2015\Projects\KrGamesFinal\KrGamesFinal\bin\Microsoft.Web.Infrastructure.dll
+c:\users\kalleby\documents\visual studio 2015\Projects\KrGamesFinal\KrGamesFinal\bin\System.Web.Helpers.dll
+c:\users\kalleby\documents\visual studio 2015\Projects\KrGamesFinal\KrGamesFinal\bin\System.Web.Mvc.dll
+c:\users\kalleby\documents\visual studio 2015\Projects\KrGamesFinal\KrGamesFinal\bin\System.Web.Razor.dll
+c:\users\kalleby\documents\visual studio 2015\Projects\KrGamesFinal\KrGamesFinal\bin\System.Web.Webpages.Deployment.dll
+c:\users\kalleby\documents\visual studio 2015\Projects\KrGamesFinal\KrGamesFinal\bin\System.Web.Webpages.dll
+c:\users\kalleby\documents\visual studio 2015\Projects\KrGamesFinal\KrGamesFinal\bin\System.Web.Webpages.Razor.dll
+c:\users\kalleby\documents\visual studio 2015\Projects\KrGamesFinal\KrGamesFinal\bin\EntityFramework.xml
+c:\users\kalleby\documents\visual studio 2015\Projects\KrGamesFinal\KrGamesFinal\bin\EntityFramework.SqlServer.xml
+c:\users\kalleby\documents\visual studio 2015\Projects\KrGamesFinal\KrGamesFinal\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\kalleby\documents\visual studio 2015\Projects\KrGamesFinal\KrGamesFinal\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\kalleby\documents\visual studio 2015\Projects\KrGamesFinal\KrGamesFinal\bin\Microsoft.AI.Web.xml
+c:\users\kalleby\documents\visual studio 2015\Projects\KrGamesFinal\KrGamesFinal\bin\Microsoft.AI.WindowsServer.xml
+c:\users\kalleby\documents\visual studio 2015\Projects\KrGamesFinal\KrGamesFinal\bin\Microsoft.ApplicationInsights.xml
+c:\users\kalleby\documents\visual studio 2015\Projects\KrGamesFinal\KrGamesFinal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\kalleby\documents\visual studio 2015\Projects\KrGamesFinal\KrGamesFinal\bin\System.Web.Razor.xml
+c:\users\kalleby\documents\visual studio 2015\Projects\KrGamesFinal\KrGamesFinal\bin\System.Web.Webpages.xml
+c:\users\kalleby\documents\visual studio 2015\Projects\KrGamesFinal\KrGamesFinal\bin\System.Web.Webpages.Deployment.xml
+c:\users\kalleby\documents\visual studio 2015\Projects\KrGamesFinal\KrGamesFinal\bin\System.Web.Webpages.Razor.xml
+c:\users\kalleby\documents\visual studio 2015\Projects\KrGamesFinal\KrGamesFinal\bin\System.Web.Helpers.xml
+c:\users\kalleby\documents\visual studio 2015\Projects\KrGamesFinal\KrGamesFinal\bin\System.Web.Mvc.xml
+c:\users\kalleby\documents\visual studio 2015\Projects\KrGamesFinal\KrGamesFinal\obj\Debug\KrGamesFinal.csprojResolveAssemblyReference.cache
+c:\users\kalleby\documents\visual studio 2015\Projects\KrGamesFinal\KrGamesFinal\obj\Debug\KrGamesFinal.dll
+c:\users\kalleby\documents\visual studio 2015\Projects\KrGamesFinal\KrGamesFinal\obj\Debug\KrGamesFinal.pdb
+C:\Users\Kalleby\Desktop\KrGamesFinal\KrGamesFinal\bin\ApplicationInsights.config
+C:\Users\Kalleby\Desktop\KrGamesFinal\KrGamesFinal\bin\roslyn\csc.exe
+C:\Users\Kalleby\Desktop\KrGamesFinal\KrGamesFinal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Kalleby\Desktop\KrGamesFinal\KrGamesFinal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Kalleby\Desktop\KrGamesFinal\KrGamesFinal\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Kalleby\Desktop\KrGamesFinal\KrGamesFinal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Kalleby\Desktop\KrGamesFinal\KrGamesFinal\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Kalleby\Desktop\KrGamesFinal\KrGamesFinal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Kalleby\Desktop\KrGamesFinal\KrGamesFinal\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Kalleby\Desktop\KrGamesFinal\KrGamesFinal\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Kalleby\Desktop\KrGamesFinal\KrGamesFinal\bin\roslyn\vbc.exe
+C:\Users\Kalleby\Desktop\KrGamesFinal\KrGamesFinal\bin\roslyn\VBCSCompiler.exe
+C:\Users\Kalleby\Desktop\KrGamesFinal\KrGamesFinal\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Kalleby\Desktop\KrGamesFinal\KrGamesFinal\bin\KrGamesFinal.dll.config
+C:\Users\Kalleby\Desktop\KrGamesFinal\KrGamesFinal\bin\KrGamesFinal.dll
+C:\Users\Kalleby\Desktop\KrGamesFinal\KrGamesFinal\bin\KrGamesFinal.pdb
+C:\Users\Kalleby\Desktop\KrGamesFinal\KrGamesFinal\bin\EntityFramework.dll
+C:\Users\Kalleby\Desktop\KrGamesFinal\KrGamesFinal\bin\EntityFramework.SqlServer.dll
+C:\Users\Kalleby\Desktop\KrGamesFinal\KrGamesFinal\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Kalleby\Desktop\KrGamesFinal\KrGamesFinal\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Kalleby\Desktop\KrGamesFinal\KrGamesFinal\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Kalleby\Desktop\KrGamesFinal\KrGamesFinal\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Kalleby\Desktop\KrGamesFinal\KrGamesFinal\bin\Microsoft.AI.Web.dll
+C:\Users\Kalleby\Desktop\KrGamesFinal\KrGamesFinal\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Kalleby\Desktop\KrGamesFinal\KrGamesFinal\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Kalleby\Desktop\KrGamesFinal\KrGamesFinal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Kalleby\Desktop\KrGamesFinal\KrGamesFinal\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Kalleby\Desktop\KrGamesFinal\KrGamesFinal\bin\System.Web.Helpers.dll
+C:\Users\Kalleby\Desktop\KrGamesFinal\KrGamesFinal\bin\System.Web.Mvc.dll
+C:\Users\Kalleby\Desktop\KrGamesFinal\KrGamesFinal\bin\System.Web.Razor.dll
+C:\Users\Kalleby\Desktop\KrGamesFinal\KrGamesFinal\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Kalleby\Desktop\KrGamesFinal\KrGamesFinal\bin\System.Web.Webpages.dll
+C:\Users\Kalleby\Desktop\KrGamesFinal\KrGamesFinal\bin\System.Web.Webpages.Razor.dll
+C:\Users\Kalleby\Desktop\KrGamesFinal\KrGamesFinal\bin\EntityFramework.xml
+C:\Users\Kalleby\Desktop\KrGamesFinal\KrGamesFinal\bin\EntityFramework.SqlServer.xml
+C:\Users\Kalleby\Desktop\KrGamesFinal\KrGamesFinal\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Kalleby\Desktop\KrGamesFinal\KrGamesFinal\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Kalleby\Desktop\KrGamesFinal\KrGamesFinal\bin\Microsoft.AI.Web.xml
+C:\Users\Kalleby\Desktop\KrGamesFinal\KrGamesFinal\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Kalleby\Desktop\KrGamesFinal\KrGamesFinal\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Kalleby\Desktop\KrGamesFinal\KrGamesFinal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Kalleby\Desktop\KrGamesFinal\KrGamesFinal\bin\System.Web.Razor.xml
+C:\Users\Kalleby\Desktop\KrGamesFinal\KrGamesFinal\bin\System.Web.Webpages.xml
+C:\Users\Kalleby\Desktop\KrGamesFinal\KrGamesFinal\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Kalleby\Desktop\KrGamesFinal\KrGamesFinal\bin\System.Web.Webpages.Razor.xml
+C:\Users\Kalleby\Desktop\KrGamesFinal\KrGamesFinal\bin\System.Web.Helpers.xml
+C:\Users\Kalleby\Desktop\KrGamesFinal\KrGamesFinal\bin\System.Web.Mvc.xml
+C:\Users\Kalleby\Desktop\KrGamesFinal\KrGamesFinal\obj\Debug\KrGamesFinal.csprojResolveAssemblyReference.cache
+C:\Users\Kalleby\Desktop\KrGamesFinal\KrGamesFinal\obj\Debug\KrGamesFinal.dll
+C:\Users\Kalleby\Desktop\KrGamesFinal\KrGamesFinal\obj\Debug\KrGamesFinal.pdb
+C:\Users\1521560\Desktop\KrGamesV0.7\KrGamesFinal\bin\ApplicationInsights.config
+C:\Users\1521560\Desktop\KrGamesV0.7\KrGamesFinal\bin\roslyn\csc.exe
+C:\Users\1521560\Desktop\KrGamesV0.7\KrGamesFinal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\1521560\Desktop\KrGamesV0.7\KrGamesFinal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\1521560\Desktop\KrGamesV0.7\KrGamesFinal\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\1521560\Desktop\KrGamesV0.7\KrGamesFinal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\1521560\Desktop\KrGamesV0.7\KrGamesFinal\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\1521560\Desktop\KrGamesV0.7\KrGamesFinal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\1521560\Desktop\KrGamesV0.7\KrGamesFinal\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\1521560\Desktop\KrGamesV0.7\KrGamesFinal\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\1521560\Desktop\KrGamesV0.7\KrGamesFinal\bin\roslyn\vbc.exe
+C:\Users\1521560\Desktop\KrGamesV0.7\KrGamesFinal\bin\roslyn\VBCSCompiler.exe
+C:\Users\1521560\Desktop\KrGamesV0.7\KrGamesFinal\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\1521560\Desktop\KrGamesV0.7\KrGamesFinal\bin\KrGamesFinal.dll.config
+C:\Users\1521560\Desktop\KrGamesV0.7\KrGamesFinal\bin\KrGamesFinal.dll
+C:\Users\1521560\Desktop\KrGamesV0.7\KrGamesFinal\bin\KrGamesFinal.pdb
+C:\Users\1521560\Desktop\KrGamesV0.7\KrGamesFinal\bin\EntityFramework.dll
+C:\Users\1521560\Desktop\KrGamesV0.7\KrGamesFinal\bin\EntityFramework.SqlServer.dll
+C:\Users\1521560\Desktop\KrGamesV0.7\KrGamesFinal\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\1521560\Desktop\KrGamesV0.7\KrGamesFinal\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\1521560\Desktop\KrGamesV0.7\KrGamesFinal\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\1521560\Desktop\KrGamesV0.7\KrGamesFinal\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\1521560\Desktop\KrGamesV0.7\KrGamesFinal\bin\Microsoft.AI.Web.dll
+C:\Users\1521560\Desktop\KrGamesV0.7\KrGamesFinal\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\1521560\Desktop\KrGamesV0.7\KrGamesFinal\bin\Microsoft.ApplicationInsights.dll
+C:\Users\1521560\Desktop\KrGamesV0.7\KrGamesFinal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\1521560\Desktop\KrGamesV0.7\KrGamesFinal\bin\System.Web.Helpers.dll
+C:\Users\1521560\Desktop\KrGamesV0.7\KrGamesFinal\bin\System.Web.Mvc.dll
+C:\Users\1521560\Desktop\KrGamesV0.7\KrGamesFinal\bin\System.Web.Razor.dll
+C:\Users\1521560\Desktop\KrGamesV0.7\KrGamesFinal\bin\System.Web.Webpages.Deployment.dll
+C:\Users\1521560\Desktop\KrGamesV0.7\KrGamesFinal\bin\System.Web.Webpages.dll
+C:\Users\1521560\Desktop\KrGamesV0.7\KrGamesFinal\bin\System.Web.Webpages.Razor.dll
+C:\Users\1521560\Desktop\KrGamesV0.7\KrGamesFinal\bin\EntityFramework.xml
+C:\Users\1521560\Desktop\KrGamesV0.7\KrGamesFinal\bin\EntityFramework.SqlServer.xml
+C:\Users\1521560\Desktop\KrGamesV0.7\KrGamesFinal\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\1521560\Desktop\KrGamesV0.7\KrGamesFinal\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\1521560\Desktop\KrGamesV0.7\KrGamesFinal\bin\Microsoft.AI.Web.xml
+C:\Users\1521560\Desktop\KrGamesV0.7\KrGamesFinal\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\1521560\Desktop\KrGamesV0.7\KrGamesFinal\bin\Microsoft.ApplicationInsights.xml
+C:\Users\1521560\Desktop\KrGamesV0.7\KrGamesFinal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\1521560\Desktop\KrGamesV0.7\KrGamesFinal\bin\System.Web.Razor.xml
+C:\Users\1521560\Desktop\KrGamesV0.7\KrGamesFinal\bin\System.Web.Webpages.xml
+C:\Users\1521560\Desktop\KrGamesV0.7\KrGamesFinal\bin\System.Web.Webpages.Deployment.xml
+C:\Users\1521560\Desktop\KrGamesV0.7\KrGamesFinal\bin\System.Web.Webpages.Razor.xml
+C:\Users\1521560\Desktop\KrGamesV0.7\KrGamesFinal\bin\System.Web.Helpers.xml
+C:\Users\1521560\Desktop\KrGamesV0.7\KrGamesFinal\bin\System.Web.Mvc.xml
+C:\Users\1521560\Desktop\KrGamesV0.7\KrGamesFinal\obj\Debug\KrGamesFinal.csprojResolveAssemblyReference.cache
+C:\Users\1521560\Desktop\KrGamesV0.7\KrGamesFinal\obj\Debug\KrGamesFinal.dll
+C:\Users\1521560\Desktop\KrGamesV0.7\KrGamesFinal\obj\Debug\KrGamesFinal.pdb
+C:\Users\kalle\Desktop\KrGamesV0.8\KrGamesFinal\bin\ApplicationInsights.config
+C:\Users\kalle\Desktop\KrGamesV0.8\KrGamesFinal\bin\roslyn\csc.exe
+C:\Users\kalle\Desktop\KrGamesV0.8\KrGamesFinal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\kalle\Desktop\KrGamesV0.8\KrGamesFinal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\kalle\Desktop\KrGamesV0.8\KrGamesFinal\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\kalle\Desktop\KrGamesV0.8\KrGamesFinal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\kalle\Desktop\KrGamesV0.8\KrGamesFinal\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\kalle\Desktop\KrGamesV0.8\KrGamesFinal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\kalle\Desktop\KrGamesV0.8\KrGamesFinal\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\kalle\Desktop\KrGamesV0.8\KrGamesFinal\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\kalle\Desktop\KrGamesV0.8\KrGamesFinal\bin\roslyn\vbc.exe
+C:\Users\kalle\Desktop\KrGamesV0.8\KrGamesFinal\bin\roslyn\VBCSCompiler.exe
+C:\Users\kalle\Desktop\KrGamesV0.8\KrGamesFinal\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\kalle\Desktop\KrGamesV0.8\KrGamesFinal\bin\KrGamesFinal.dll.config
+C:\Users\kalle\Desktop\KrGamesV0.8\KrGamesFinal\bin\KrGamesFinal.dll
+C:\Users\kalle\Desktop\KrGamesV0.8\KrGamesFinal\bin\KrGamesFinal.pdb
+C:\Users\kalle\Desktop\KrGamesV0.8\KrGamesFinal\bin\EntityFramework.dll
+C:\Users\kalle\Desktop\KrGamesV0.8\KrGamesFinal\bin\EntityFramework.SqlServer.dll
+C:\Users\kalle\Desktop\KrGamesV0.8\KrGamesFinal\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\kalle\Desktop\KrGamesV0.8\KrGamesFinal\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\kalle\Desktop\KrGamesV0.8\KrGamesFinal\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\kalle\Desktop\KrGamesV0.8\KrGamesFinal\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\kalle\Desktop\KrGamesV0.8\KrGamesFinal\bin\Microsoft.AI.Web.dll
+C:\Users\kalle\Desktop\KrGamesV0.8\KrGamesFinal\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\kalle\Desktop\KrGamesV0.8\KrGamesFinal\bin\Microsoft.ApplicationInsights.dll
+C:\Users\kalle\Desktop\KrGamesV0.8\KrGamesFinal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\kalle\Desktop\KrGamesV0.8\KrGamesFinal\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\kalle\Desktop\KrGamesV0.8\KrGamesFinal\bin\System.Web.Helpers.dll
+C:\Users\kalle\Desktop\KrGamesV0.8\KrGamesFinal\bin\System.Web.Mvc.dll
+C:\Users\kalle\Desktop\KrGamesV0.8\KrGamesFinal\bin\System.Web.Razor.dll
+C:\Users\kalle\Desktop\KrGamesV0.8\KrGamesFinal\bin\System.Web.Webpages.Deployment.dll
+C:\Users\kalle\Desktop\KrGamesV0.8\KrGamesFinal\bin\System.Web.Webpages.dll
+C:\Users\kalle\Desktop\KrGamesV0.8\KrGamesFinal\bin\System.Web.Webpages.Razor.dll
+C:\Users\kalle\Desktop\KrGamesV0.8\KrGamesFinal\bin\EntityFramework.xml
+C:\Users\kalle\Desktop\KrGamesV0.8\KrGamesFinal\bin\EntityFramework.SqlServer.xml
+C:\Users\kalle\Desktop\KrGamesV0.8\KrGamesFinal\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\kalle\Desktop\KrGamesV0.8\KrGamesFinal\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\kalle\Desktop\KrGamesV0.8\KrGamesFinal\bin\Microsoft.AI.Web.xml
+C:\Users\kalle\Desktop\KrGamesV0.8\KrGamesFinal\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\kalle\Desktop\KrGamesV0.8\KrGamesFinal\bin\Microsoft.ApplicationInsights.xml
+C:\Users\kalle\Desktop\KrGamesV0.8\KrGamesFinal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\kalle\Desktop\KrGamesV0.8\KrGamesFinal\bin\System.Web.Razor.xml
+C:\Users\kalle\Desktop\KrGamesV0.8\KrGamesFinal\bin\System.Web.Webpages.xml
+C:\Users\kalle\Desktop\KrGamesV0.8\KrGamesFinal\bin\System.Web.Webpages.Deployment.xml
+C:\Users\kalle\Desktop\KrGamesV0.8\KrGamesFinal\bin\System.Web.Webpages.Razor.xml
+C:\Users\kalle\Desktop\KrGamesV0.8\KrGamesFinal\bin\System.Web.Helpers.xml
+C:\Users\kalle\Desktop\KrGamesV0.8\KrGamesFinal\bin\System.Web.Mvc.xml
+C:\Users\kalle\Desktop\KrGamesV0.8\KrGamesFinal\obj\Debug\KrGamesFinal.csprojResolveAssemblyReference.cache
+C:\Users\kalle\Desktop\KrGamesV0.8\KrGamesFinal\obj\Debug\KrGamesFinal.dll
+C:\Users\kalle\Desktop\KrGamesV0.8\KrGamesFinal\obj\Debug\KrGamesFinal.pdb

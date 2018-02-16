@@ -1,0 +1,68 @@
+﻿@model KrGamesFinal.Models.Jogo
+
+<div>
+    <h4>Jogo</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.GeneroJogo.GeneroJogo)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.GeneroJogo.GeneroJogo)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.MidiaJogo.MidiaJogo)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.MidiaJogo.MidiaJogo)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.JogoNome)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.JogoNome)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.JogoDescricao)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.JogoDescricao)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.JogoPreco)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.JogoPreco)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.JogoQuantidade)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.JogoQuantidade)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.JogoImagem)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.JogoImagem)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.JogoId }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

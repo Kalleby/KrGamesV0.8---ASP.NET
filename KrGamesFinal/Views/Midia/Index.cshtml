@@ -1,0 +1,29 @@
+﻿@model IEnumerable<KrGamesFinal.Models.Midia>
+
+
+<p>
+    @Html.ActionLink("Nova Mídia", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.MidiaJogo)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.MidiaJogo)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id = item.MidiaId }) |
+                @Html.ActionLink("Details", "Details", new { id = item.MidiaId }) |
+                @Html.ActionLink("Delete", "Delete", new { id = item.MidiaId })
+            </td>
+        </tr>
+    }
+
+</table>

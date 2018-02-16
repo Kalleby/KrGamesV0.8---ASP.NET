@@ -1,0 +1,18 @@
+﻿@model KrGamesFinal.Models.Usuario
+
+@using (Html.BeginForm())
+{
+
+
+    @Html.LabelFor(model => model.UsuarioLogin)
+    @Html.EditorFor(model => model.UsuarioLogin)
+
+    @Html.LabelFor(model => model.UsuarioSenha)
+    @Html.PasswordFor(model => model.UsuarioSenha)
+
+    @Html.Label("Permanecer conectado")
+    @Html.CheckBox("chkConectado")
+
+    <input type="submit" value="Login" />
+}
+
